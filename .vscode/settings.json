@@ -1,0 +1,9 @@
+{
+    "editor.codeActionsOnSave": {
+        "source.fixAll": "always",
+        "source.organizeImports":"always"  //Organiza los imports de pakage lo pone más arriba, los de nativas al centro, las clases al final con ruta relativa
+        
+    }
+    //FVM Concepto: gestor de paquetes , si ese proyecto estaba en una version anterior, se adapta a la version en la que estaba y se puede 
+    //seguir trabajando con esas versiones como por ejemplo un java 14 (si fuera de java)
+}
